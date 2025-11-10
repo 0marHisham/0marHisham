@@ -23,28 +23,28 @@ I create **interactive dashboards, predictive models, and data-driven solutions*
 ## 💼 Projects Highlights
 
 ### Cryptocurrency Market Dashboard
-- **Tools:** Power BI, DAX, Excel  
+- **Tools:** Power BI, DAX, power Query   
 - **Description:** Tracks cryptocurrency price trends, daily changes, and correlations between major coins.  
 - **Outcome:** Clear insights into market volatility and key relationships.  
 ![Crypto Dashboard](https://github.com/0marHisham/Cryptocurrency-Dashboard-Price-Trends-Analysis/blob/88fa77950afa7374b05dae6a4b99f7405a643648/Price%20Trends%20Dashboard.png)  
 [Repository Link](https://github.com/0marHisham/Cryptocurrency-Dashboard-Price-Trends-Analysis/tree/main)
 
 ### Seoudi Market BI Project
-- **Tools:** Power BI, DAX, Excel  
+- **Tools:** Power BI, DAX, Excel, power Query   
 - **Description:** Interactive BI dashboard for Seoudi Market with sales KPIs, product insights, and customer behavior analysis.  
 - **Outcome:** Enables strategic decision-making and performance tracking.  
 ![Seoudi Market Dashboard](https://github.com/0marHisham/Seoudi-Market-BI-Project/blob/61bf97bad91764d19d9dab043988cbda60da419e/Screenshot%202025-11-05%20070343.png)  
 [Repository Link](https://github.com/0marHisham/Seoudi-Market-BI-Project)
 
 ### AdventureWorks Sales & Customer Analytics Dashboard
-- **Tools:** Power BI, DAX  
+- **Tools:** Power BI, DAX, power Query   
 - **Description:** Dashboard with KPIs, interactive charts, and Decomposition Tree to analyze sales by Region → Product Category → Product Name.  
 - **Outcome:** Enables **data-driven decision making** and trend analysis.  
 ![AdventureWorks Dashboard](https://github.com/0marHisham/AdventureWorks-Sales-Dashboard/blob/36215a6dc46b2ae78f1110e92b87809907d0bccc/Screenshot%202025-11-10%20191624.png)  
 [Repository Link](https://github.com/0marHisham/AdventureWorks-Sales-Dashboard/tree/main)
 
 ### Customer Segmentation & Churn Analysis
-- **Tools:** Python, SQL, Pandas, Scikit-learn  
+- **Tools:** Excel, power Query 
 - **Description:** Customer segmentation and churn prediction using machine learning algorithms.  
 - **Outcome:** Identified high-risk churn segments and actionable strategies.  
 ![Customer Segmentation](https://github.com/0marHisham/Sales-Profit-Dashboard/blob/351ce6dc2a58ebefa29e12323d74322e3b40b45b/Dashboard.png)  
