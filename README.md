@@ -43,12 +43,12 @@ I create **interactive dashboards, predictive models, and data-driven solutions*
 ![AdventureWorks Dashboard](https://github.com/0marHisham/AdventureWorks-Sales-Dashboard/blob/36215a6dc46b2ae78f1110e92b87809907d0bccc/Screenshot%202025-11-10%20191624.png)  
 [Repository Link](https://github.com/0marHisham/AdventureWorks-Sales-Dashboard/tree/main)
 
-### Amazon Sales Data Analysis
-- **Tools:** Excel, Power Query, Pivot Tables  
-- **Description:** Automated Excel dashboards for sales trends, seasonal performance, and product insights.  
-- **Outcome:** Improved visibility and reporting efficiency.  
-![Amazon Dashboard]([https://raw.githubusercontent.com/0marHisham/images/main/amazon-dashboard.png](https://github.com/0marHisham/Sales-Profit-Dashboard/blob/351ce6dc2a58ebefa29e12323d74322e3b40b45b/Dashboard.png))  
-[Repository Link]([https://github.com/0marHisham/Amazon-Sales-Analysis](https://github.com/0marHisham/Sales-Profit-Dashboard/tree/main))
+### Customer Segmentation & Churn Analysis
+- **Tools:** Python, SQL, Pandas, Scikit-learn  
+- **Description:** Customer segmentation and churn prediction using machine learning algorithms.  
+- **Outcome:** Identified high-risk churn segments and actionable strategies.  
+![Customer Segmentation]([https://github.com/0marHisham/Customer-Segmentation-Churn/blob/main/Dashboard.png](https://github.com/0marHisham/Sales-Profit-Dashboard/blob/main/Dashboard.png))  
+[Repository Link](https://github.com/0marHisham/Sales-Profit-Dashboard)
 
 
 
