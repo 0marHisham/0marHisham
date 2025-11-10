@@ -6,7 +6,7 @@ I create **interactive dashboards, predictive models, and data-driven solutions*
 ---
 
 ## 🔹 Skills & Tools
-![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Analytics-brightgreen)
+![Power BI](https://img.shields.io/badge/Tableau-Visualization-brightgreen)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
