@@ -47,7 +47,7 @@ I create **interactive dashboards, predictive models, and data-driven solutions*
 - **Tools:** Python, SQL, Pandas, Scikit-learn  
 - **Description:** Customer segmentation and churn prediction using machine learning algorithms.  
 - **Outcome:** Identified high-risk churn segments and actionable strategies.  
-![Customer Segmentation]([https://github.com/0marHisham/Customer-Segmentation-Churn/blob/main/Dashboard.png](https://github.com/0marHisham/Sales-Profit-Dashboard/blob/main/Dashboard.png))  
+![Customer Segmentation](https://github.com/0marHisham/Sales-Profit-Dashboard/blob/351ce6dc2a58ebefa29e12323d74322e3b40b45b/Dashboard.png)  
 [Repository Link](https://github.com/0marHisham/Sales-Profit-Dashboard)
 
 
