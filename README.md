@@ -1,7 +1,10 @@
 # 👋 Hi, I'm Omar Hisham
 
-I'm a **Data Analyst** passionate about **turning complex datasets into actionable insights** using **Power BI, DAX, Python, and SQL**.  
-I create **interactive dashboards, predictive models, and data-driven solutions** to help organizations make smarter decisions.
+  Data Analyst passionate about transforming complex datasets into actionable insights.  
+💡 Expert in Power BI, DAX, Excel, Python & SQL.  
+📊 I build interactive dashboards, predictive models, and analytics solutions to drive data-driven decision making.  
+🌱 Currently learning advanced Power BI analytics, machine learning, and cloud-based data warehousing.  
+
 
 ---
 
