@@ -8,7 +8,7 @@ I build **interactive dashboards, KPI reports, and analytical solutions** that e
 ---
 
 ## 🔹 Skills & Tools
-![Power BI](https://img.shields.io/badge/PowerBi-Visualization-brightgreen)
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
