@@ -8,7 +8,7 @@ I build **interactive dashboards, KPI reports, and analytical solutions** that e
 ---
 
 ## 🔹 Skills & Tools
-![Power BI](https://img.shields.io/badge/Tableau-Visualization-brightgreen)
+![Power BI](https://img.shields.io/badge/PowerBi-Visualization-brightgreen)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blue)
 ![Python](https://img.shields.io/badge/Python-Programming-yellow)
 ![SQL](https://img.shields.io/badge/SQL-Database-orange)
@@ -37,6 +37,13 @@ I build **interactive dashboards, KPI reports, and analytical solutions** that e
 - **Outcome:** Enables strategic decision-making and performance tracking.  
 ![Seoudi Market Dashboard](https://github.com/0marHisham/Seoudi-Market-BI-Project/blob/61bf97bad91764d19d9dab043988cbda60da419e/Screenshot%202025-11-05%20070343.png)  
 [Repository Link](https://github.com/0marHisham/Seoudi-Market-BI-Project)
+
+### Maven Market Sales Dashboard
+- **Tools:** Power BI, DAX, Power Query  
+- **Description:** Interactive dashboard to analyze sales, profit, margins, and returns across the US, Canada, and Mexico.  
+- **Outcome:** Identified key revenue drivers, underperforming regions, high-return products, and growth opportunities.
+![Maven Market Sales Dashboard](https://github.com/0marHisham/Maven-Market-Sales-Dashboard/blob/19579f49c15add1f1ef724260a478eac6995e40c/Screenshot%202026-01-03%20175423.png)  
+[Repository Link](https://github.com/0marHisham/Maven-Market-Sales-Dashboard/tree/main)
 
 ### AdventureWorks Sales & Customer Analytics Dashboard
 - **Tools:** Power BI, DAX, power Query   
