@@ -9,11 +9,12 @@ I build **interactive dashboards, KPI reports, and analytical solutions** that e
 
 ## 🔹 Skills & Tools
 ![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-yellow)
-![DAX](https://img.shields.io/badge/DAX-Measures-blue)
-![Python](https://img.shields.io/badge/Python-Programming-yellow)
-![SQL](https://img.shields.io/badge/SQL-Database-orange)
-![Excel](https://img.shields.io/badge/Excel-Analysis-lightblue)
-![Tableau](https://img.shields.io/badge/Tableau-Visualization-red)
+![DAX](https://img.shields.io/badge/DAX-Calculations-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Cleaning-lightgrey)
+![SQL](https://img.shields.io/badge/SQL-Data%20Extraction-orange)
+![Excel](https://img.shields.io/badge/Excel-Reporting-green)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-purple)
+
 
 - **Data Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
 - **Analytics & Modeling:** DAX, Python (Pandas, NumPy, Scikit-learn), SQL  
